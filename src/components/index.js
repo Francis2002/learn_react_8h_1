@@ -10,3 +10,5 @@ export {default as VideoCard} from './VideoCard';
 export {default as ChannelCard} from './ChannelCard';
 export {default as ProfileDetail} from './ProfileDetail';
 export {default as MovieCard} from './MovieCard';
+export {default as ContactsDetail} from './ContactsDetail';
+export {default as ForumDetail} from './ForumDetail';

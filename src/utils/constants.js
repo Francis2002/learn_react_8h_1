@@ -12,12 +12,15 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 import PersonIcon from '@mui/icons-material/Person';
+import ForumIcon from '@mui/icons-material/Forum';
+import CallIcon from '@mui/icons-material/Call';
 
 export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'Home', icon: <HomeIcon />, },
-  { name: 'Contactos', icon: <CodeIcon />, },
+  { name: 'Contactos', icon: <CallIcon />, },
+  { name: 'Fórum', icon: <ForumIcon />, },
   { name: 'Perfil', icon: <PersonIcon />, },
 ];
 

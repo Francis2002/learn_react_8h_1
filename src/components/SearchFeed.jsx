@@ -39,7 +39,11 @@ const SearchFeed = ({selectedCategory, setSelectedCategory}) => {
       </Box>
 
       <Box p={2} sx={{overflowY: 'auto', heigth: '90vh', flex: 2}}>
-
+        {videos.length === 0 ? (
+          <Typography variant="h4" sx={{color: 'white'}}>
+            Sem resultados
+          </Typography>
+        ) : (<div></div>)}
         <Videos videos={videos}/>
       </Box>
     </Stack>
