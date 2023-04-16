@@ -138,7 +138,7 @@ const ProfileDetail = ({profile, setProfile}) => {
                     </div>   
                     <div style={{display: 'flex', alignItems: 'center'}}>
                         <input type="checkbox" id="cb16"/>
-                        <label for="cb6">Ambiçoso</label>
+                        <label for="cb6">Ambicioso</label>
                     </div>
                     <div style={{display: 'flex', alignItems: 'center'}}>
                         <input type="checkbox" id="cb17"/>

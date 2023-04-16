@@ -54,7 +54,7 @@ const ForumDetail = ({selectedCategory,setSelectedCategory}) => {
                 <Typography variant="h6">
                     exemplo@email.com
                 </Typography>
-                <button variant="h6" style={{cursor:"pointer", marginRight: '10px', backgroundColor: '#d88769', border: 'none', borderRadius: '5px', height: '25px', marginTop: '10px', color: 'white', fontWeight: 'bold', width: '250px'}}>
+                <button variant="h6" style={{cursor:"pointer", marginRight: '10px', backgroundColor: '#d88769', border: 'none', borderRadius: '5px', height: '25px', marginTop: '10px', color: 'white', fontWeight: 'bold', maxWidth: '250px'}}>
                     Message
                 </button>
             </Box>
@@ -90,7 +90,7 @@ const ForumDetail = ({selectedCategory,setSelectedCategory}) => {
                 <Typography variant="h6">
                     exemplo@email.com
                 </Typography>
-                <button variant="h6" style={{cursor:"pointer", marginRight: '10px', backgroundColor: '#d88769', border: 'none', borderRadius: '5px', height: '25px', marginTop: '10px', color: 'white', fontWeight: 'bold', width: '250px'}}>
+                <button variant="h6" style={{cursor:"pointer", marginRight: '10px', backgroundColor: '#d88769', border: 'none', borderRadius: '5px', height: '25px', marginTop: '10px', color: 'white', fontWeight: 'bold', maxWidth: '250px'}}>
                     Message
                 </button>
             </Box>
@@ -126,7 +126,7 @@ const ForumDetail = ({selectedCategory,setSelectedCategory}) => {
                 <Typography variant="h6">
                     exemplo@email.com
                 </Typography>
-                <button variant="h6" style={{cursor:"pointer", marginRight: '10px', backgroundColor: '#d88769', border: 'none', borderRadius: '5px', height: '25px', marginTop: '10px', color: 'white', fontWeight: 'bold', width: '250px'}}>
+                <button variant="h6" style={{cursor:"pointer", marginRight: '10px', backgroundColor: '#d88769', border: 'none', borderRadius: '5px', height: '25px', marginTop: '10px', color: 'white', fontWeight: 'bold', maxWidth: '250px'}}>
                     Message
                 </button>
             </Box>
@@ -162,7 +162,7 @@ const ForumDetail = ({selectedCategory,setSelectedCategory}) => {
                 <Typography variant="h6">
                     exemplo@email.com
                 </Typography>
-                <button variant="h6" style={{cursor:"pointer", marginRight: '10px', backgroundColor: '#d88769', border: 'none', borderRadius: '5px', height: '25px', marginTop: '10px', color: 'white', fontWeight: 'bold', width: '250px'}}>
+                <button variant="h6" style={{cursor:"pointer", marginRight: '10px', backgroundColor: '#d88769', border: 'none', borderRadius: '5px', height: '25px', marginTop: '10px', color: 'white', fontWeight: 'bold', maxWidth: '250px'}}>
                     Message
                 </button>
             </Box>
